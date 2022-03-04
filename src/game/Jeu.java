@@ -19,7 +19,7 @@ import org.xml.sax.SAXException;
 
 /**
  *
- * @author gladen
+ * @author dmitrii
  */
 public abstract class Jeu {
 

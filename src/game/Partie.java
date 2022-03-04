@@ -10,7 +10,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Attr;
 /**
  *
- * @author ilyassbouissa
+ * @author dmitrii
  */
 public class Partie {
     //Nous avons actuellement une classe Partie vide. Nous allons l'améliorer de façon

@@ -8,7 +8,7 @@ package game;
 
 /**
  *
- * @author ilyassbouissa
+ * @author dmitrii
  */
 public class LanceurDeJeu {
     public static void main(String args[]) {

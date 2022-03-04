@@ -8,7 +8,7 @@ package game;
 import env3d.advanced.EnvNode;
 /**
  *
- * @author ilyass
+ * @author dmitrii
  */
 public class Letter extends EnvNode{
     private char letter;

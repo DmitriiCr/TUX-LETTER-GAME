@@ -24,7 +24,7 @@ import org.xml.sax.SAXException;
 
 /**
  *
- * @author ilyassbouissa
+ * @author dmitrii
  */
 public class Profil {
     private String nom;

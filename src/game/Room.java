@@ -16,7 +16,7 @@ import org.w3c.dom.NodeList;
 
 /**
  *
- * @author ilyss$
+ * @author dmitrii
  */
 public final class Room {
     private int depth;

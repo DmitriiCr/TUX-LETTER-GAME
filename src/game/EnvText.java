@@ -10,7 +10,7 @@ import org.lwjgl.input.Keyboard;
 
 /**
  *
- * @author gladen
+ * @author dmitrii
  */
 public class EnvText {
 

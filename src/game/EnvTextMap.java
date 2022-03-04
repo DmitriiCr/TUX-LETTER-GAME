@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * Cette classe gère l'ensemble des textes de type EnvText du jeu
  *
- * @author gladen
+ * @author dmitrii
  */
 public class EnvTextMap {
 

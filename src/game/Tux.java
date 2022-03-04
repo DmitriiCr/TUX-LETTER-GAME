@@ -9,7 +9,7 @@ import env3d.Env;
 import env3d.advanced.EnvNode;
 /**
  *
- * @author ilyss$
+ * @author dmitrii
  */
 public class Tux extends EnvNode{
     private Env env;
